@@ -119,7 +119,7 @@ The reaction CTPS2 [produces certain amino acids](https://www.kegg.jp/kegg-bin/s
 The reaction 3DSPHR participates in [sphingolipid metabolism](https://www.kegg.jp/pathway/ko00600+K04708),
 while the reaction TYMSULT is related to the protein-tyrosine sulfotransferase [activity](https://www.kegg.jp/entry/R02586).
 
-![](./figures/FBA_fluxes_fba_r.png)
+![](./figures/FBA_fluxes_fba_r_2.png)
 
 For both GK1 and CTPS2, FBA implies that the fluxes increase when the virus biomass takes its maximum possible value.
 That happens because these reactions are related to the growth of an organism. Thus,
